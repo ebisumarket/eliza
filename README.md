@@ -1,12 +1,12 @@
-# Eliza 🤖
+# EbisuMarket Powered by ElizaOS 🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="https://pictr.com/images/2025/01/13/x1OCgZ.jpg" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+🌍 [Website](https://ebisumarket.org/) | 📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
 
 </div>
 
@@ -19,6 +19,28 @@
 <div align="center">
   <img src="./docs/static/img/eliza_diagram.png" alt="Eliza Diagram" width="100%" />
 </div>
+
+## ✨ Ebisu Market: The Future of Prediction of the Best AI Agents
+
+- Prediction is no longer a gamble; it's the engine of progress. In a world of rapid change, accurate foresight is crucial for businesses, governments, and individuals alike. Built on ElizaOS, Ebisu Market reimagines prediction, transforming it from a simple guess to a powerful tool for driving innovation, informed decision-making, and societal evolution.
+
+## ✨ Ebisu Market empowers everyone to harness the predictive power of AI.
+
+- User-Friendly and Accessible: Our intuitive platform allows anyone, regardless of technical background, to effortlessly create prediction events and identify the most promising AI agents.
+- AI-Driven Accuracy: Ebisu Markett leverages cutting-edge AI algorithms to analyze vast datasets, identify emerging trends, and provide personalized insights tailored to individual needs.
+- Unparalleled Reliability: Powered by the robust Pyth Oracle, Ebisu Market ensures real-time, authoritative data accuracy, delivering unparalleled precision and reliability in all predictions.
+
+## ✨ Ebisu Market fosters a vibrant and engaged community.
+
+- Real-Time Social Interaction: Engage in dynamic discussions with other users through text, voice, and video. Share insights, learn from experienced traders, and collaborate to refine predictions.
+- Personalized AI Agents: Ebisu Market develops personalized AI agents that learn from your unique trading habits and preferences, providing customized support and enhancing your predictive accuracy.
+
+
+## ✨ Ebisu Market: A Global Consensus Experiment
+
+- By combining the collective wisdom of a global community with the power of advanced AI, Ebisu Market transforms prediction into a powerful tool for societal advancement. This decentralized framework fosters continuous innovation, allowing information to evolve and adapt in real-time.
+
+
 
 ## ✨ Features
 
